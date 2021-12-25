@@ -1,0 +1,651 @@
+ Base became: 1
+Server: received ACK 
+ACK no. :0
+ACK len :8
+ACK chksum :65527
+
+ Base became: 2
+Server: received ACK 
+ACK no. :1
+ACK len :8
+ACK chksum :65526
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 3
+Server: received ACK 
+ACK no. :2
+ACK len :8
+ACK chksum :65525
+
+ Base became: 4
+Server: received ACK 
+ACK no. :3
+ACK len :8
+ACK chksum :65524
+
+ Base became: 5
+Server: received ACK 
+ACK no. :4
+ACK len :8
+ACK chksum :65523
+
+ Base became: 6
+Server: received ACK 
+ACK no. :5
+ACK len :8
+ACK chksum :65522
+
+ Base became: 7
+Server: received ACK 
+ACK no. :6
+ACK len :8
+ACK chksum :65521
+
+ Base became: 8
+Server: received ACK 
+ACK no. :7
+ACK len :8
+ACK chksum :65520
+
+ Base became: 9
+Server: received ACK 
+ACK no. :8
+ACK len :8
+ACK chksum :65519
+
+ Base became: 10
+Server: received ACK 
+ACK no. :9
+ACK len :8
+ACK chksum :65518
+
+ Base became: 11
+Server: received ACK 
+ACK no. :10
+ACK len :8
+ACK chksum :65517
+
+ Base became: 12
+Server: received ACK 
+ACK no. :11
+ACK len :8
+ACK chksum :65516
+
+ Base became: 13
+Server: received ACK 
+ACK no. :12
+ACK len :8
+ACK chksum :65515
+
+ Base became: 14
+Server: received ACK 
+ACK no. :13
+ACK len :8
+ACK chksum :65514
+
+ Base became: 15
+Server: received ACK 
+ACK no. :14
+ACK len :8
+ACK chksum :65513
+
+ Base became: 16
+Server: received ACK 
+ACK no. :15
+ACK len :8
+ACK chksum :65512
+
+ Base became: 17
+Server: received ACK 
+ACK no. :16
+ACK len :8
+ACK chksum :65511
+
+ Base became: 18
+Server: received ACK 
+ACK no. :17
+ACK len :8
+ACK chksum :65510
+
+ Base became: 19
+Server: received ACK 
+ACK no. :18
+ACK len :8
+ACK chksum :65509
+
+ Base became: 20
+Server: received ACK 
+ACK no. :19
+ACK len :8
+ACK chksum :65508
+
+ Base became: 21
+Server: received ACK 
+ACK no. :20
+ACK len :8
+ACK chksum :65507
+
+ Base became: 22
+Server: received ACK 
+ACK no. :21
+ACK len :8
+ACK chksum :65506
+
+ Base became: 23
+Server: received ACK 
+ACK no. :22
+ACK len :8
+ACK chksum :65505
+
+ Base became: 24
+Server: received ACK 
+ACK no. :23
+ACK len :8
+ACK chksum :65504
+
+ Base became: 25
+Server: received ACK 
+ACK no. :24
+ACK len :8
+ACK chksum :65503
+
+ Base became: 26
+Server: received ACK 
+ACK no. :25
+ACK len :8
+ACK chksum :65502
+
+ Base became: 27
+Server: received ACK 
+ACK no. :26
+ACK len :8
+ACK chksum :65501
+
+ Base became: 28
+Server: received ACK 
+ACK no. :27
+ACK len :8
+ACK chksum :65500
+
+ Base became: 29
+Server: received ACK 
+ACK no. :28
+ACK len :8
+ACK chksum :65499
+
+ Base became: 30
+Server: received ACK 
+ACK no. :29
+ACK len :8
+ACK chksum :65498
+
+ Base became: 31
+Server: received ACK 
+ACK no. :30
+ACK len :8
+ACK chksum :65497
+
+ Base became: 32
+Server: received ACK 
+ACK no. :31
+ACK len :8
+ACK chksum :65496
+
+ Base became: 33
+Server: received ACK 
+ACK no. :32
+ACK len :8
+ACK chksum :65495
+
+ Base became: 34
+Server: received ACK 
+ACK no. :33
+ACK len :8
+ACK chksum :65494
+
+ Base became: 35
+Server: received ACK 
+ACK no. :34
+ACK len :8
+ACK chksum :65493
+
+ Base became: 36
+Server: received ACK 
+ACK no. :35
+ACK len :8
+ACK chksum :65492
+
+ Base became: 37
+Server: received ACK 
+ACK no. :36
+ACK len :8
+ACK chksum :65491
+
+ Base became: 38
+Server: received ACK 
+ACK no. :37
+ACK len :8
+ACK chksum :65490
+
+ Base became: 39
+Server: received ACK 
+ACK no. :38
+ACK len :8
+ACK chksum :65489
+
+ Base became: 40
+Server: received ACK 
+ACK no. :39
+ACK len :8
+ACK chksum :65488
+
+ Base became: 41
+Server: received ACK 
+ACK no. :40
+ACK len :8
+ACK chksum :65487
+
+ Base became: 42
+Server: received ACK 
+ACK no. :41
+ACK len :8
+ACK chksum :65486
+
+ Base became: 43
+Server: received ACK 
+ACK no. :42
+ACK len :8
+ACK chksum :65485
+
+ Base became: 44
+Server: received ACK 
+ACK no. :43
+ACK len :8
+ACK chksum :65484
+
+ Base became: 45
+Server: received ACK 
+ACK no. :44
+ACK len :8
+ACK chksum :65483
+
+ Base became: 46
+Server: received ACK 
+ACK no. :45
+ACK len :8
+ACK chksum :65482
+
+ Base became: 47
+Server: received ACK 
+ACK no. :46
+ACK len :8
+ACK chksum :65481
+
+ Base became: 48
+Server: received ACK 
+ACK no. :47
+ACK len :8
+ACK chksum :65480
+
+ Base became: 49
+Server: received ACK 
+ACK no. :48
+ACK len :8
+ACK chksum :65479
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 50
+Server: received ACK 
+ACK no. :49
+ACK len :8
+ACK chksum :65478
+
+ Base became: 51
+Server: received ACK 
+ACK no. :50
+ACK len :8
+ACK chksum :65477
+
+ Base became: 52
+Server: received ACK 
+ACK no. :51
+ACK len :8
+ACK chksum :65476
+
+ Base became: 53
+Server: received ACK 
+ACK no. :52
+ACK len :8
+ACK chksum :65475
+
+ Base became: 54
+Server: received ACK 
+ACK no. :53
+ACK len :8
+ACK chksum :65474
+
+ Base became: 55
+Server: received ACK 
+ACK no. :54
+ACK len :8
+ACK chksum :65473
+
+ Base became: 56
+Server: received ACK 
+ACK no. :55
+ACK len :8
+ACK chksum :65472
+
+ Base became: 57
+Server: received ACK 
+ACK no. :56
+ACK len :8
+ACK chksum :65471
+
+ Base became: 58
+Server: received ACK 
+ACK no. :57
+ACK len :8
+ACK chksum :65470
+
+ Base became: 59
+Server: received ACK 
+ACK no. :58
+ACK len :8
+ACK chksum :65469
+
+ Base became: 60
+Server: received ACK 
+ACK no. :59
+ACK len :8
+ACK chksum :65468
+
+ Base became: 61
+Server: received ACK 
+ACK no. :60
+ACK len :8
+ACK chksum :65467
+
+ Base became: 62
+Server: received ACK 
+ACK no. :61
+ACK len :8
+ACK chksum :65466
+
+ Base became: 63
+Server: received ACK 
+ACK no. :62
+ACK len :8
+ACK chksum :65465
+
+ Base became: 64
+Server: received ACK 
+ACK no. :63
+ACK len :8
+ACK chksum :65464
+
+ Base became: 65
+Server: received ACK 
+ACK no. :64
+ACK len :8
+ACK chksum :65463
+
+ Base became: 66
+Server: received ACK 
+ACK no. :65
+ACK len :8
+ACK chksum :65462
+
+ Base became: 67
+Server: received ACK 
+ACK no. :66
+ACK len :8
+ACK chksum :65461
+
+Sending ending packet
+Closing ACK thread
+

@@ -1,0 +1,434 @@
+Server: received file name: request
+Server: buffers initialized
+Server: sending packet 0
+Server: timer started
+Server: sending packet 1
+Server: sending packet 2
+
+Server: packet 3 dropped..
+
+Server: sending packet 4
+Server: sending packet 5
+Server: sending packet 6
+Server: sending packet 7
+Server: sending packet 8
+
+Server: packet 9 dropped..
+
+Server: sending packet 10
+
+Server: packet 11 dropped..
+
+Server: sending packet 12
+Server: sending packet 13
+Server: sending packet 14
+
+Server: packet 15 dropped..
+
+Server: sending packet 16
+
+Server: packet 17 dropped..
+
+Server: sending packet 18
+Server: sending packet 19
+
+Server: packet 20 dropped..
+
+Server: sending packet 21
+Server: sending packet 22
+
+Server: packet 23 dropped..
+
+Server: sending packet 24
+Server: sending packet 25
+Server: sending packet 26
+
+Server: packet 27 dropped..
+
+Server: sending packet 28
+Server: sending packet 29
+
+Server: packet 30 dropped..
+
+
+Server: packet 31 dropped..
+
+
+Server: packet 32 dropped..
+
+Server: sending packet 33
+Server: sending packet 34
+Server: sending packet 35
+Server: sending packet 36
+Server: sending packet 37
+
+Server: packet 38 dropped..
+
+Server: sending packet 39
+
+Server: packet 40 dropped..
+
+Server: sending packet 41
+
+Server: packet 42 dropped..
+
+
+Server: packet 43 dropped..
+
+Server: sending packet 44
+Server: sending packet 45
+Server: sending packet 46
+
+Server: packet 47 dropped..
+
+
+Server: packet 48 dropped..
+
+Server: sending packet 49
+Server: timer started
+ base became: 1
+Server: timer started
+ base became: 2
+Server: timer started
+ base became: 3
+Server: incrementing duplicate acks, ackno: 2
+Server: timer started
+ base became: 3
+Server: incrementing duplicate acks, ackno: 2
+Server: timer started
+ base became: 3
+Server: incrementing duplicate acks, ackno: 2
+Server: loss event occured, cnwd became: Server: timer stopped
+26
+Server: resending all window...base = 3
+
+Server: timer started
+Server: sending packet 3
+Server: sending packet 4
+Server: sending packet 5
+Server: sending packet 6
+Server: sending packet 7
+Server: sending packet 8
+Server: sending packet 9
+Server: sending packet 10
+Server: sending packet 11
+Server: sending packet 12
+Server: sending packet 13
+Server: sending packet 14
+Server: sending packet 15
+Server: sending packet 16
+Server: sending packet 17
+Server: sending packet 18
+Server: sending packet 19
+Server: sending packet 20
+Server: sending packet 21
+Server: sending packet 22
+Server: sending packet 23
+Server: sending packet 24
+Server: sending packet 25
+Server: sending packet 26
+Server: sending packet 27
+Server: sending packet 28
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: timer started
+ base became: 3
+Server: resending the already read but not resent pkts, resend_base: 29
+Server: sending packet 29
+Server: sending packet 30
+Server: resend_base became: 31
+Server: timer started
+ base became: 4
+Server: resending the already read but not resent pkts, resend_base: 31
+Server: sending packet 31
+Server: sending packet 32
+Server: resend_base became: 33
+Server: timer started
+ base became: 5
+Server: resending the already read but not resent pkts, resend_base: 33
+Server: sending packet 33
+Server: sending packet 34
+Server: resend_base became: 35
+Server: timer started
+ base became: 6
+Server: resending the already read but not resent pkts, resend_base: 35
+Server: sending packet 35
+Server: sending packet 36
+Server: resend_base became: 37
+Server: timer started
+ base became: 7
+Server: resending the already read but not resent pkts, resend_base: 37
+Server: sending packet 37
+Server: sending packet 38
+Server: resend_base became: 39
+Server: timer started
+ base became: 8
+Server: resending the already read but not resent pkts, resend_base: 39
+Server: sending packet 39
+Server: sending packet 40
+Server: resend_base became: 41
+Server: timer started
+ base became: 9
+Server: resending the already read but not resent pkts, resend_base: 41
+Server: sending packet 41
+Server: sending packet 42
+Server: resend_base became: 43
+Server: timer started
+ base became: 10
+Server: resending the already read but not resent pkts, resend_base: 43
+Server: sending packet 43
+Server: sending packet 44
+Server: resend_base became: 45
+Server: timer started
+ base became: 11
+Server: resending the already read but not resent pkts, resend_base: 45
+Server: sending packet 45
+Server: sending packet 46
+Server: resend_base became: 47
+Server: timer started
+ base became: 12
+Server: resending the already read but not resent pkts, resend_base: 47
+Server: sending packet 47
+Server: sending packet 48
+Server: resend_base became: 49
+Server: timer started
+ base became: 13
+Server: resending the already read but not resent pkts, resend_base: 49
+Server: sending packet 49
+Server: resend_base became: 50
+Server: timer started
+ base became: 14
+Server: timer started
+ base became: 15
+Server: timer started
+ base became: 16
+Server: timer started
+ base became: 17
+Server: timer started
+ base became: 18
+Server: timer started
+ base became: 19
+Server: timer started
+ base became: 20
+Server: timer started
+ base became: 21
+Server: timer started
+ base became: 22
+Server: timer started
+ base became: 23
+Server: timer started
+ base became: 24
+Server: timer started
+ base became: 25
+Server: timer started
+ base became: 26
+Server: timer started
+ base became: 27
+Server: timer started
+ base became: 28
+Server: timer started
+ base became: 29
+Server: timer started
+ base became: 30
+Server: timer started
+ base became: 31
+Server: timer started
+ base became: 32
+Server: timer started
+ base became: 33
+Server: timer started
+ base became: 34
+Server: timer started
+ base became: 35
+Server: timer started
+ base became: 36
+Server: timer started
+ base became: 37
+Server: timer started
+ base became: 38
+Server: timer started
+ base became: 39
+
+Server: packet 50 dropped..
+
+
+Server: packet 51 dropped..
+
+Server: sending packet 52
+Server: sending packet 53
+Server: sending packet 54
+Server: sending packet 55
+Server: sending packet 56
+Server: sending packet 57
+Server: sending packet 58
+Server: sending packet 59
+
+Server: packet 60 dropped..
+
+
+Server: packet 61 dropped..
+
+Server: sending packet 62
+
+Server: packet 63 dropped..
+
+Server: sending packet 64
+
+Server: packet 65 dropped..
+
+Server: sending packet 66
+Server: timer started
+ base became: 40
+Server: timer started
+ base became: 41
+Server: timer started
+ base became: 42
+Server: timer started
+ base became: 43
+Server: timer started
+ base became: 44
+Server: timer started
+ base became: 45
+Server: timer started
+ base became: 46
+Server: timer started
+ base became: 47
+Server: timer started
+ base became: 48
+Server: timer started
+ base became: 49
+Server: timer started
+ base became: 50
+Server: incrementing duplicate acks, ackno: 49
+Server: timer started
+ base became: 50
+Server: incrementing duplicate acks, ackno: 49
+Server: timer started
+ base became: 50
+Server: incrementing duplicate acks, ackno: 49
+Server: loss event occured, cnwd became: Server: timer stopped
+36
+Server: resending all window...base = 50
+
+Server: timer started
+Server: sending packet 50
+Server: sending packet 51
+Server: sending packet 52
+Server: sending packet 53
+Server: sending packet 54
+Server: sending packet 55
+Server: sending packet 56
+Server: sending packet 57
+Server: sending packet 58
+Server: sending packet 59
+Server: sending packet 60
+Server: sending packet 61
+Server: sending packet 62
+Server: sending packet 63
+Server: sending packet 64
+Server: sending packet 65
+Server: sending packet 66
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 50
+Server: timer started
+ base became: 51
+Server: timer started
+ base became: 52
+Server: timer started
+ base became: 53
+Server: timer started
+ base became: 54
+Server: timer started
+ base became: 55
+Server: timer started
+ base became: 56
+Server: timer started
+ base became: 57
+Server: timer started
+ base became: 58
+Server: timer started
+ base became: 59
+Server: timer started
+ base became: 60
+Server: timer started
+ base became: 61
+Server: timer started
+ base became: 62
+Server: timer started
+ base became: 63
+Server: timer started
+ base became: 64
+Server: timer started
+ base became: 65
+Server: timer started
+ base became: 66
+Server: timer stopped
+ base became: 67
